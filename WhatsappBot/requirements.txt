@@ -1,5 +1,5 @@
-Flask==2.2.3
-python-dotenv==1.0.0
+Flask
 supabase
-Twilio==7.18.0
+twilio
+python-dotenv
 flask-cors==3.0.10
